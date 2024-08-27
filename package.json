@@ -1,6 +1,6 @@
 {
 
-  
+  "homepage": "https://Bruno-rodrigues-farias.github.io/CRUD-React",
   "name": "meusite",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +19,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "homepage": "https://Bruno-rodrigues-farias.github.io/CRUD-React",
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
