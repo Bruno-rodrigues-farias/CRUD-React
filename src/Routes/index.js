@@ -11,6 +11,7 @@ function RoutesApp(){
             <Route path="/" element={<Home/>} />
             <Route path="/cadastro" element={<Cadastro/>} />
             <Route path="/admin" element={ <Private> <Admin/> </Private> } />
+            <Route path="*" element={<Home/>}/>
         </Routes>
     
     )
