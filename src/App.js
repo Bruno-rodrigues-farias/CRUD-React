@@ -5,8 +5,8 @@ import RoutesApp from "./Routes";
 export default function App() {
  
  return (
-  <BrowserRouter>
-    <RoutesApp />
-  </BrowserRouter>
+  <div>
+    <h1>Teste</h1>
+  </div>
  );
 }
